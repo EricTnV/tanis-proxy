@@ -1,1 +1,1 @@
-# tanis-proxy
+# Proxy Server
